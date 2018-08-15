@@ -1,0 +1,1 @@
+python train.py -g 0 --embedding_file ../data/w2v.midasi.256.100K.bin --training_file ../data/2018-shinjin/jumanpp.midasi/train.csv --test_file ../data/2018-shinjin/jumanpp.midasi/test.csv --voc_limit 30000 --num_epoch 10
